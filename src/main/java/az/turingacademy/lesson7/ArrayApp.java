@@ -16,3 +16,4 @@ public class ArrayApp {
         System.out.println("Max value index: " + maxIndex);
     }
 }
+ 
