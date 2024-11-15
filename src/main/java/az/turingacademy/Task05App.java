@@ -17,7 +17,6 @@ public class Task05App {                      //first or last?
             System.out.println ("=");
         }
 
-
     }
 
 
